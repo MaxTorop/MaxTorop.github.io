@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work "Deep learning using a biophysical model for robust and accelerated reconstruction of quantitative, artifact‐free and denoised images" has been accepted to Magnetic Resoance in Medicine. 
+Our work "Deep learning using a biophysical model for robust and accelerated reconstruction of quantitative, artifact‐free and denoised images" has been accepted to Magnetic Resonance in Medicine. 
