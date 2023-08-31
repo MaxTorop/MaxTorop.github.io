@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined Professor Kamilov's Comptuational Imaging Group to work on Masters Thesis
+Joined [Professor Kamilov's](https://engineering.wustl.edu/faculty/Ulugbek-Kamilov.html) [Comptuational Imaging Group](https://cigroup.wustl.edu/) at WUSTL, to work on Masters Thesis.
