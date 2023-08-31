@@ -1,6 +1,8 @@
 github_users:
   - torvalds
   - alshedivat
+  - wustl-cig
+  - MaxTorop
 
 github_repos:
   - alshedivat/al-folio
@@ -10,3 +12,4 @@ github_repos:
   - FortAwesome/Font-Awesome
   - jpswalsh/academicons
   - mathjax/MathJax
+  - wustl-cig/RoAR
