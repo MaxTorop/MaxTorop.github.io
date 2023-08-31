@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Began PhD in Professor Dy's ML Lab at Nortehastern.
+Began PhD in Professor Dy's ML Lab at Northeastern.
