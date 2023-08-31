@@ -1,15 +1,5 @@
 github_users:
-  - torvalds
-  - alshedivat
-  - wustl-cig
   - MaxTorop
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
   - wustl-cig/RoAR
