@@ -23,7 +23,7 @@ Before coming to Northeastern I did my Masters in CS at Washington University in
 
 Outside of research I love to watch anime and read. My favorites are One Piece, Fullmetal Alchemist Brotherhood, Dororo, Attack on Titan, One Hundred Years of Solitude, The Stormlight Archive series and East of Eden. 
 
-## Research Interestes
+## Research Interests
 
 * ReLU Geometry
 * Interpretability of Neural Networks
