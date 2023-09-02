@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: ReLU Networks : Piecewise Linear Functions over Convex Polytopes 
+title: ReLU Networks
 description: Covers the basic properties of ReLU networks through theoretical proofs, interactive visualizations and code. 
 tags: distill formatting
 giscus_comments: true
