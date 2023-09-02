@@ -56,9 +56,16 @@ _styles: >
 
 ## Genesis (The shocking story of how I became interested in ReLU Networks)
 
-In the Spring of 2022 I became obsessed with ReLU networks. From as far back as 2017, when I took my first course in deep learning, I had been aware of ReLU Netowrks: ReLU is a popular activation function, ReLU Networks are simply networks which employ ReLU as the activation function. Various justifications have been given for the use of ReLU; ReLU mitigates the vanishing gradient proble, ReLU XYZ, etc. However, it was not until the Spring of 2022 until I became aware of the extremely nice theoretical properties of ReLU networks, properties which have yielded a hard to characterize sub-field which uses these properties to solve a diverse set of problems.
+In the Spring of 2022 I became obsessed with ReLU networks. From as far back as 2017, when I took my first course in deep learning, I had been aware of ReLU Netowrks: ReLU is a popular activation function, ReLU Networks are simply networks which employ ReLU as the activation function. Various justifications have been given for the use of ReLU; ReLU mitigates the vanishing gradient proble, ReLU XYZ, etc. However, it was not until the Spring of 2022 until I became aware of the extremely nice (add on ismplicity) theoretical properties of ReLU networks, properties which have yielded a hard to characterize sub-field which uses these properties to solve a diverse set of problems. I was sitting in the stairwell of the ISEC building at northeastern with my friend, discussing our project at the time. We had an interesting problem, but had been stuck for a month on creating a formulation amenable to solution. Earlier that day he had excitedly texted me that he had had a breakthrough to this end, however when we got to ISEC all of the meeting rooms were taken; hence our exile to the stairwell. 
 
-I was sitting in the stairwell of the ISEC building at northeastern with my friend, discussing our project at the time. We had been stuck for a month on formulating our problem. 
+
+## Cool Works
+
+Many cool works exploit the piecwise linearity of ReLU networks ... 
+
+SmoothHess (Shameless self-plug) 
+Anandkumar et al
+Hein et al
 
 
 ## Equations
