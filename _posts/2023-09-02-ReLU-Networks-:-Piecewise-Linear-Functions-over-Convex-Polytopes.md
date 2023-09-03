@@ -63,7 +63,7 @@ In the Spring of 2022 I became obsessed with ReLU networks. From as far back as 
 
 Many cool works exploit the piecwise linearity of ReLU networks ... 
 
-Anandkumar et al XYZ
+SmoothHess (Shameless self-plug) Anandkumar et al XYZ
 Hein et al
 
 
