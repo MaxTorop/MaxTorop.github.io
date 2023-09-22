@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work on Interepretability was accepted to NeurIPS 2023!
+Our work on feature interactions in ReLU networks was accepted to NeurIPS 2023!
