@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am a fourth year PhD student in Professor [Jennifer Dy's](https://ece.northeastern.edu/fac-ece/jdy/) Machine Learning Lab at Northeastern University. I'm broadly interested in out-of-distribution detection, ReLU geometry and interpretability of neural networks. I'm also collaborating with scientists at [MSKCC](https://www.mskcc.org) to develop applications of machine learning for dermatology. 
+I am a fourth year PhD student in Professor [Jennifer Dy's](https://ece.northeastern.edu/fac-ece/jdy/) Machine Learning Lab at Northeastern University. I'm broadly interested in reliable machine learning, specificaly out-of-distribution detection and interpretability of neural networks. I'm also collaborating with scientists at [MSKCC](https://www.mskcc.org) to develop applications of machine learning for dermatology. 
 
 Before coming to Northeastern I did my Masters in CS at Washington University in St. Louis, where I was a member of Professor [Ulugbek Kamilov's](https://engineering.wustl.edu/faculty/Ulugbek-Kamilov.html) [Computational Imaging Group (CIG)](https://cigroup.wustl.edu/). At CIG I collaborated with Professor [Dmitriy Yablonskiy](https://www.mir.wustl.edu/employees/dmitriy-yablonskiy/) (Radiology), developing deep learning methods for MRI processing. I recieved a B.S. in Data Science from the University of Rochester in 2018.
 
