@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our [work](https://neurips.cc/virtual/2023/poster/70998) using Stein's lemma to qunatify feature interactions in ReLU networks was accepted to [NeurIPS 2023](https://neurips.cc/virtual/2023/index.html)!
+Our [work](https://neurips.cc/virtual/2023/poster/70998) using Stein's lemma to quantify feature interactions in ReLU networks was accepted to [NeurIPS 2023](https://neurips.cc/virtual/2023/index.html)!
