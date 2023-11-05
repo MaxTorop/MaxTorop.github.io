@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: page
 permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-redirect_to: MaxToropResume.pdf
+permalink: /assets/pdf/MaxToropResume.pdf
 ---
