@@ -29,8 +29,10 @@ Outside of research I love to watch anime and read. My favorites are One Piece, 
 * Interpretability of neural networks
 * Contrastive Learning
 
+<!-- 
 ## Awards
 
 * Dean's Fellowship, Northeastern, 2020-2024
 * Dean's List (5 Terms), Rochester, 2014-2018
 * Research and Innovation Grant (RIG), Rochester, 2014
+--> 
