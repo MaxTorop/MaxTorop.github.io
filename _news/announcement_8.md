@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work [Boundary-Aware Uncertainty for Feature Attribution Explainers](https://neurips.cc/virtual/2023/poster/70998) was accepted to [AISTATS 2024](https://virtual.aistats.org/Conferences/2024)!
+Our work [SmoothHess: ReLU Network Feature Interactions via Stein's Lemma](https://neurips.cc/virtual/2023/poster/70998) was accepted to [NeurIPS 2023](https://neurips.cc/virtual/2023/index.html)!
