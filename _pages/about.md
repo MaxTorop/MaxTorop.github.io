@@ -26,8 +26,8 @@ Outside of research I love to watch anime and read. My favorites are One Piece, 
 ## Research Interests
 
 * Out-of-distribution detection
-* Interpretability of neural networks
-* Contrastive Learning
+* Interpretable maching learning
+* Self-superviesd learning
 
 <!-- 
 ## Awards
