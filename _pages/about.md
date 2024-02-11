@@ -27,7 +27,7 @@ Outside of research I love to watch anime and read. My favorites are One Piece, 
 
 * Out-of-distribution detection
 * Interpretable maching learning
-* Self-superviesd learning
+* Self-supervised learning
 
 <!-- 
 ## Awards
