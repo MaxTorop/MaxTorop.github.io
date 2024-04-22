@@ -17,8 +17,11 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am a PhD candidate in Prof. [Jennifer Dy's Machine Learning (ML) Lab](https://mllabneu.github.io/) at Northeastern University. I'm broadly interested in out-of-distribution detection, interpretable ML and self-supervised learning. I'm also collaborating with scientists at [MSKCC](https://www.mskcc.org) to develop applications of ML for dermatology. 
+I am a PhD candidate in Prof. [Jennifer Dy's Machine Learning (ML) Lab](https://mllabneu.github.io/) at Northeastern University. I'm broadly interested in out-of-distribution detection, interpretable ML and self-supervised learning. I also collaborate with scientists at [MSKCC](https://www.mskcc.org), developing applications of ML to dermatology.
 
+<!-- 
+I'm also collaborating with scientists at [MSKCC](https://www.mskcc.org) to develop applications of ML for dermatology. 
+-->
 Before coming to Northeastern I did my Masters in CS at WUSTL, where I was a member of Prof. [Ulugbek Kamilov's](https://engineering.wustl.edu/faculty/Ulugbek-Kamilov.html) [Computational Imaging Group (CIG)](https://cigroup.wustl.edu/). At CIG I collaborated with Prof. [Dmitriy Yablonskiy](https://www.mir.wustl.edu/employees/dmitriy-yablonskiy/) (Radiology), developing deep learning methods for MRI processing. I recieved a B.S. in Data Science from the University of Rochester in 2018.
 
 Outside of research I love to watch anime and read. My favorites are One Piece, Fullmetal Alchemist Brotherhood, Dororo, Attack on Titan, One Hundred Years of Solitude, The Stormlight Archive series and East of Eden.
