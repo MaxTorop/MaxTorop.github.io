@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'll be joining Apple as an ML Research Intern this Summer!
+I'll be joining [Apple](https://machinelearning.apple.com/) as an ML Research Intern this Summer!
