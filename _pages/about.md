@@ -16,9 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<span style="color:red;">I am currently a research intern at [Apple](https://machinelearning.apple.com/) (Summer 2024).</span>
-
-I am a PhD candidate in Prof. [Jennifer Dy's Machine Learning (ML) Lab](https://mllabneu.github.io/) at Northeastern University. I'm broadly interested in out-of-distribution detection, interpretable ML and self-supervised learning. I also collaborate with scientists at [MSKCC](https://www.mskcc.org), developing applications of ML to dermatology.
+I am a PhD candidate in Prof. [Jennifer Dy's Machine Learning (ML) Lab](https://mllabneu.github.io/) at Northeastern University. I'm broadly interested in out-of-distribution detection, interpretable ML and self-supervised learning. I also collaborate with scientists at [MSKCC](https://www.mskcc.org), developing applications of ML to dermatology. I interned at Apple during the summer of 2024, focusing on methods for Data Valuation.
 
 <!-- 
 I'm also collaborating with scientists at [MSKCC](https://www.mskcc.org) to develop applications of ML for dermatology. 
