@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be giving a talk on our work [SmoothHess](https://arxiv.org/pdf/2311.00858) to [Prof. Finale Doshi-Velez's](https://finale.seas.harvard.edu/) lab at Harvard, on 10/24/24.
+I will be giving a talk on our work [SmoothHess](https://arxiv.org/pdf/2311.00858) to [Prof. Doshi-Velez's](https://finale.seas.harvard.edu/) lab at Harvard, on 10/24/24.
