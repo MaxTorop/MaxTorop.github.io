@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a fifth year PhD candidate in Prof. [Jennifer Dy's Machine Learning (ML) Lab](https://mllabneu.github.io/) at [Northeastern University](https://www.northeastern.edu/). I'm broadly interested in interpretable ML, self-supervised learning and large-language models (LLMs). I also collaborate with scientists at [MSKCC](https://www.mskcc.org), developing applications of ML to dermatology. I was a research intern at Apple during the summer of 2024, focusing on data valuation methods for LLMs.
+I am a fifth year PhD candidate in Prof. [Jennifer Dy's Machine Learning (ML) Lab](https://mllabneu.github.io/) at [Northeastern University](https://www.northeastern.edu/). I'm broadly interested in interpretable ML, self-supervised learning and inference time steering of large language models (LLMs). I also collaborate with scientists at [MSKCC](https://www.mskcc.org), developing applications of ML to dermatology. I was a research intern at Apple during the summer of 2024, focusing on data valuation methods for LLMs.
 
 <!-- 
 I'm also collaborating with scientists at [MSKCC](https://www.mskcc.org) to develop applications of ML for dermatology. 
