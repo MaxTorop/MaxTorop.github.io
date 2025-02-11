@@ -26,7 +26,7 @@ Before coming to Northeastern I did my Masters in CS at WUSTL, where I was a mem
 -->
 Before coming to Northeastern I completed a Masters in CS at [WUSTL](https://washu.edu/), where I developed deep learning methods for MRI processing as a member of Prof. [Ulugbek Kamilov's](https://engineering.wustl.edu/faculty/Ulugbek-Kamilov.html) [Computational Imaging Group](https://cigroup.wustl.edu/). I recieved a BS in Data Science from the [University of Rochester](https://www.rochester.edu/) in 2018.
 
-Outside of research I love to watch anime and read. Some favorites are One Piece, Fullmetal Alchemist, Dororo, One Hundred Years of Solitude, The Stormlight Archive, Jonathan Strange and Mr. Norrell and East of Eden.
+Outside of research I love to watch anime and read. Some favorites are One Piece, Fullmetal Alchemist, Dororo, One Hundred Years of Solitude, The Stormlight Archive, Jonathan Strange and Mr. Norrell, East of Eden and Hyperion.
 
 
 
