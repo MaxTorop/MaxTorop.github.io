@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be attending the (National Cancer Institute (NCI))[https://www.cancer.gov/] sponsored (ITCR meeting)[https://events.cancer.gov/nci/itcr-meeting] in Rockville, MD.
+I will be attending the [National Cancer Institute (NCI)](https://www.cancer.gov/) sponsored [ITCR meeting](https://events.cancer.gov/nci/itcr-meeting) in Rockville, MD.
