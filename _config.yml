@@ -56,6 +56,7 @@ footer_fixed: true
 
 # Dimensions
 max_width: 3000px #800px
+max-content-width: 3000px 
 
 # TODO: add layout settings (single page vs. multi-page)
 
