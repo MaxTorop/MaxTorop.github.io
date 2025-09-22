@@ -25,7 +25,7 @@ I'm also collaborating with scientists at [MSKCC](https://www.mskcc.org) to deve
 <!-- 
 Before coming to Northeastern I did my Masters in CS at WUSTL, where I was a member of Prof. [Ulugbek Kamilov's](https://engineering.wustl.edu/faculty/Ulugbek-Kamilov.html) [Computational Imaging Group (CIG)](https://cigroup.wustl.edu/). At CIG I collaborated with Prof. [Dmitriy Yablonskiy](https://www.mir.wustl.edu/employees/dmitriy-yablonskiy/) (Radiology), developing deep learning methods for MRI processing. I recieved a B.S. in Data Science from the University of Rochester in 2018.
 -->
-Before coming to Northeastern I completed a Masters in CS at [WUSTL](https://washu.edu/), where I developed deep learning methods for MRI processing as a member of Prof. [Ulugbek Kamilov's](https://ukmlv.github.io/) [Computational Imaging Group](https://cigroup.wustl.edu/). I recieved a BS in Data Science from the [University of Rochester](https://www.rochester.edu/) in 2018.
+Before coming to Northeastern I completed a Masters in CS at [WUSTL](https://washu.edu/), where I developed deep learning methods for MRI data as a member of Prof. [Ulugbek Kamilov's](https://ukmlv.github.io/) [Computational Imaging Group](https://cigroup.wustl.edu/). I recieved a BS in Data Science from the [University of Rochester](https://www.rochester.edu/) in 2018.
 
 Outside of research I love to watch anime and read. Some favorites are One Piece, Fullmetal Alchemist, Dororo, One Hundred Years of Solitude, The Stormlight Archive, Never Let Me Go, East of Eden and Hyperion.
 
