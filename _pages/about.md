@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <!--I am a fifth year PhD candidate in Prof. [Jennifer Dy's Machine Learning Lab](https://mllabneu.github.io/) at [Northeastern University](https://www.northeastern.edu/). I'm broadly interested in interpretable ML, self-supervised learning and inference time steering of LLMs. I also collaborate with scientists at [MSKCC](https://www.mskcc.org), applying ML to dermatology. I was a research intern at Apple during the summer of 2024, where I worked on methods for selecting SFT/RLHF training data for LLMs.-->
-I am a fifth year PhD candidate in Prof. [Jennifer Dy's Machine Learning Lab](https://mllabneu.github.io/) at [Northeastern University](https://www.northeastern.edu/). I work on representation engineering for LLMs and interpretable ML. I also collaborate with scientists at [MSKCC](https://www.mskcc.org), applying ML to dermatology. I was a research intern at Apple during the summer of 2024, where I worked on methods for selecting SFT/RLHF training data for LLMs.
+I am a fifth year PhD candidate in Prof. [Jennifer Dy's Machine Learning Lab](https://mllabneu.github.io/) at [Northeastern University](https://www.northeastern.edu/). I work on representation engineering for LLMs and interpretable ML. I also collaborate with scientists at [MSKCC](https://www.mskcc.org), applying ML to dermatology. I was a research intern at Apple during Summer 2024, where I worked on methods for selecting SFT/RLHF training data for LLMs.
 
 <!-- 
 I'm also collaborating with scientists at [MSKCC](https://www.mskcc.org) to develop applications of ML for dermatology. 
@@ -27,7 +27,7 @@ Before coming to Northeastern I did my Masters in CS at WUSTL, where I was a mem
 -->
 Before coming to Northeastern I completed a Masters in CS at [WUSTL](https://washu.edu/), where I developed deep learning methods for MRI processing as a member of Prof. [Ulugbek Kamilov's](https://ukmlv.github.io/) [Computational Imaging Group](https://cigroup.wustl.edu/). I recieved a BS in Data Science from the [University of Rochester](https://www.rochester.edu/) in 2018.
 
-Outside of research I love to watch anime and read. Some favorites are One Piece, Fullmetal Alchemist, Dororo, One Hundred Years of Solitude, The Stormlight Archive, Jonathan Strange and Mr. Norrell, East of Eden and Hyperion.
+Outside of research I love to watch anime and read. Some favorites are One Piece, Fullmetal Alchemist, Dororo, One Hundred Years of Solitude, The Stormlight Archive, Never Let Me Go, East of Eden and Hyperion.
 
 
 
