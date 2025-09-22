@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper DISCO: Disentangled Communication Steering for Large Language Models sponsored [NeurIPS 2025](https://neurips.cc/)!
+Our paper DISCO: Disentangled Communication Steering for Large Language Models has been accepted to [NeurIPS 2025](https://neurips.cc/)!
