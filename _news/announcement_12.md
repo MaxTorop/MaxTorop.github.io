@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Out work [Axiomatic Explainer Globalness via Optimal Transport](https://arxiv.org/pdf/2411.01126) has been accepted to [AISTATS 2025](https://virtual.aistats.org/Conferences/2025).
+Our work [Axiomatic Explainer Globalness via Optimal Transport](https://arxiv.org/pdf/2411.01126) has been accepted to [AISTATS 2025](https://virtual.aistats.org/Conferences/2025).
