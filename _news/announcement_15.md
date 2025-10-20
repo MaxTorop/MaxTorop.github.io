@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received a Top Reviewer Award for [NeurIPS 2025](https://neurips.cc/).
+Received a [Top Reviewer Award](https://neurips.cc/Conferences/2025/ProgramCommittee#top-reviewer) for [NeurIPS 2025](https://neurips.cc/).
